@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaz
 - 👀 I’m ia Software Engineer
-- I'm a*Cyber Security* Lover
+- I'm a *Cyber Security* Lover
 - 🌱 I’m currently learning Fullstack web,app & software dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
