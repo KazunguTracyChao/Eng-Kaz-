@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @KazunguTracyChao
-- 👀 I’m interested in *Cyber Security*
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Kaz
+- 👀 I’m ia Software Engineer
+- I'm a*Cyber Security* Lover
+- 🌱 I’m currently learning Fullstack web,app & software dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
